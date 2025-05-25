@@ -1,0 +1,13 @@
+Date	Store_Type	City_Type	Day_Temp	No_of_Customers	Sales	Product_Quality
+1-paź-20	1	1	30	100	3112	A
+2-paź-20	2	1	32	115	3682	A
+3-paź-20	3	3	31		2774	A
+4-paź-20	1	2	29	105	3182	
+5-paź-20	1	2	33	104	1368	B
+7-paź-20	2	2				B
+24-lis-20	2	3	26	90	4232	C
+25-lis-20	3	3		96		
+26-lis-20	2	2	27	100	2356	B
+28-lis-20	3	1				A
+29-lis-20	1	1	23	94	1254	A
+30-lis-20	1	1	22	91	4232	A
